@@ -27,6 +27,978 @@
     {
       "original": "五彩賓紛 五彩宾纷 [wu3 cai3 bin1 fen1] /colorful/",
       "en-GB": "五彩賓紛 五彩宾纷 [wu3 cai3 bin1 fen1] /colourful/"
+    },
+    {
+      "original": "五色 五色 [wu3 se4] /multi-colored/the rainbow/garish/",
+      "en-GB": "五色 五色 [wu3 se4] /multi-coloured/the rainbow/garish/"
+    },
+    {
+      "original": "五色繽紛 五色缤纷 [wu3 se4 bin1 fen1] /all the colors in profusion (idiom); a garish display/",
+      "en-GB": "五色繽紛 五色缤纷 [wu3 se4 bin1 fen1] /all the colours in profusion (idiom); a garish display/"
+    },
+    {
+      "original": "五顏六色 五颜六色 [wu3 yan2 liu4 se4] /multi-colored/every color under the sun/",
+      "en-GB": "五顏六色 五颜六色 [wu3 yan2 liu4 se4] /multi-coloured/every colour under the sun/"
+    },
+    {
+      "original": "亮彩 亮彩 [liang4 cai3] /a bright color/sparkle/shine/glitter/",
+      "en-GB": "亮彩 亮彩 [liang4 cai3] /a bright colour/sparkle/shine/glitter/"
+    },
+    {
+      "original": "仙姿玉色 仙姿玉色 [xian1 zi1 yu4 se4] /heavenly beauty, jewel colors (idiom); unusually beautiful lady/",
+      "en-GB": "仙姿玉色 仙姿玉色 [xian1 zi1 yu4 se4] /heavenly beauty, jewel colours (idiom); unusually beautiful lady/"
+    },
+    {
+      "original": "光怪陸離 光怪陆离 [guang1 guai4 lu4 li2] /monstrous and multicolored/grotesque and variegated/",
+      "en-GB": "光怪陸離 光怪陆离 [guang1 guai4 lu4 li2] /monstrous and multicoloured/grotesque and variegated/"
+    },
+    {
+      "original": "全色 全色 [quan2 se4] /full color/in all colors/",
+      "en-GB": "全色 全色 [quan2 se4] /full colour/in all colours/"
+    },
+    {
+      "original": "分色 分色 [fen1 se4] /color separation/",
+      "en-GB": "分色 分色 [fen1 se4] /colour separation/"
+    },
+    {
+      "original": "分色鏡頭 分色镜头 [fen1 se4 jing4 tou2] /process lens (working by color separation)/",
+      "en-GB": "分色鏡頭 分色镜头 [fen1 se4 jing4 tou2] /process lens (working by colour separation)/"
+    },
+    {
+      "original": "刺眼 刺眼 [ci4 yan3] /to dazzle/to offend the eyes/dazzling/harsh (light)/crude (colors)/unsightly/",
+      "en-GB": "刺眼 刺眼 [ci4 yan3] /to dazzle/to offend the eyes/dazzling/harsh (light)/crude (colours)/unsightly/"
+    },
+    {
+      "original": "勃然變色 勃然变色 [bo2 ran2 bian4 se4] /to suddenly change color showing displeasure, bewilderment etc/",
+      "en-GB": "勃然變色 勃然变色 [bo2 ran2 bian4 se4] /to suddenly change colour showing displeasure, bewilderment etc/"
+    },
+    {
+      "original": "化學比色法 化学比色法 [hua4 xue2 bi3 se4 fa3] /chemical colorimetry/",
+      "en-GB": "化學比色法 化学比色法 [hua4 xue2 bi3 se4 fa3] /chemical colourimetry/"
+    },
+    {
+      "original": "十足 十足 [shi2 zu2] /ample/complete/hundred percent/a pure shade (of some color)/",
+      "en-GB": "十足 十足 [shi2 zu2] /ample/complete/hundred percent/a pure shade (of some colour)/"
+    },
+    {
+      "original": "協調 协调 [xie2 tiao2] /to coordinate/to harmonize/to fit together/to match (colors etc)/harmonious/concerted/",
+      "en-GB": "協調 协调 [xie2 tiao2] /to coordinate/to harmonize/to fit together/to match (colours etc)/harmonious/concerted/"
+    },
+    {
+      "original": "原色 原色 [yuan2 se4] /primary color/",
+      "en-GB": "原色 原色 [yuan2 se4] /primary colour/"
+    },
+    {
+      "original": "古銅色 古铜色 [gu3 tong2 se4] /bronze color/",
+      "en-GB": "古銅色 古铜色 [gu3 tong2 se4] /bronze colour/"
+    },
+    {
+      "original": "各種顏色 各种颜色 [ge4 zhong3 yan2 se4] /multicolored/a variety of colors/",
+      "en-GB": "各種顏色 各种颜色 [ge4 zhong3 yan2 se4] /multicoloured/a variety of colours/"
+    },
+    {
+      "original": "各色各樣 各色各样 [ge4 se4 ge4 yang4] /lit. each color and each form (idiom)/diverse/various/all kinds of/",
+      "en-GB": "各色各樣 各色各样 [ge4 se4 ge4 yang4] /lit. each colour and each form (idiom)/diverse/various/all kinds of/"
+    },
+    {
+      "original": "呈 呈 [cheng2] /to present to a superior/memorial/petition/to present (a certain appearance)/to assume (a shape)/to be (a certain color)/",
+      "en-GB": "呈 呈 [cheng2] /to present to a superior/memorial/petition/to present (a certain appearance)/to assume (a shape)/to be (a certain colour)/"
+    },
+    {
+      "original": "咖啡色 咖啡色 [ka1 fei1 se4] /coffee color/brown/",
+      "en-GB": "咖啡色 咖啡色 [ka1 fei1 se4] /coffee colour/brown/"
+    },
+    {
+      "original": "型號 型号 [xing2 hao4] /model (particular version of a manufactured article)/type (product specification in terms of color, size etc)/",
+      "en-GB": "型號 型号 [xing2 hao4] /model (particular version of a manufactured article)/type (product specification in terms of colour, size etc)/"
+    },
+    {
+      "original": "堇色 堇色 [jin3 se4] /violet (color)/",
+      "en-GB": "堇色 堇色 [jin3 se4] /violet (colour)/"
+    },
+    {
+      "original": "多姿多彩 多姿多彩 [duo1 zi1 duo1 cai3] /diversity (of forms and colors)/",
+      "en-GB": "多姿多彩 多姿多彩 [duo1 zi1 duo1 cai3] /diversity (of forms and colours)/"
+    },
+    {
+      "original": "多彩 多彩 [duo1 cai3] /colorful/flamboyant/",
+      "en-GB": "多彩 多彩 [duo1 cai3] /colourful/flamboyant/"
+    },
+    {
+      "original": "大紅大綠 大红大绿 [da4 hong2 da4 lu:4] /bright-colored/garish/",
+      "en-GB": "大紅大綠 大红大绿 [da4 hong2 da4 lu:4] /bright-coloured/garish/"
+    },
+    {
+      "original": "天色 天色 [tian1 se4] /color of the sky/time of day, as indicated by the color of the sky/weather/",
+      "en-GB": "天色 天色 [tian1 se4] /colour of the sky/time of day, as indicated by the colour of the sky/weather/"
+    },
+    {
+      "original": "失色 失色 [shi1 se4] /to lose color/to turn pale/",
+      "en-GB": "失色 失色 [shi1 se4] /to lose colour/to turn pale/"
+    },
+    {
+      "original": "套印 套印 [tao4 yin4] /color printing using several overlaid images/",
+      "en-GB": "套印 套印 [tao4 yin4] /colour printing using several overlaid images/"
+    },
+    {
+      "original": "套紅 套红 [tao4 hong2] /printing portions of a page (e.g. a banner headline) in red (or other color)/",
+      "en-GB": "套紅 套红 [tao4 hong2] /printing portions of a page (e.g. a banner headline) in red (or other colour)/"
+    },
+    {
+      "original": "套色 套色 [tao4 shai3] /color printing using several overlaid images/",
+      "en-GB": "套色 套色 [tao4 shai3] /colour printing using several overlaid images/"
+    },
+    {
+      "original": "嫩 嫩 [nen4] /tender/soft/delicate/light (color)/inexperienced/unskilled/",
+      "en-GB": "嫩 嫩 [nen4] /tender/soft/delicate/light (colour)/inexperienced/unskilled/"
+    },
+    {
+      "original": "容顏失色 容颜失色 [rong2 yan2 shi1 se4] /(of complexion) to lose one's color/to blanch/wan/",
+      "en-GB": "容顏失色 容颜失色 [rong2 yan2 shi1 se4] /(of complexion) to lose one's colour/to blanch/wan/"
+    },
+    {
+      "original": "富色彩 富色彩 [fu4 se4 cai3] /colorful/",
+      "en-GB": "富色彩 富色彩 [fu4 se4 cai3] /colourful/"
+    },
+    {
+      "original": "對比色 对比色 [dui4 bi3 se4] /color contrast/",
+      "en-GB": "對比色 对比色 [dui4 bi3 se4] /colour contrast/"
+    },
+    {
+      "original": "張燈結彩 张灯结彩 [zhang1 deng1 jie2 cai3] /to be decorated with lanterns and colored banners (idiom)/",
+      "en-GB": "張燈結彩 张灯结彩 [zhang1 deng1 jie2 cai3] /to be decorated with lanterns and coloured banners (idiom)/"
+    },
+    {
+      "original": "形色 形色 [xing2 se4] /shape and color/appearance/facial expression/",
+      "en-GB": "形色 形色 [xing2 se4] /shape and colour/appearance/facial expression/"
+    },
+    {
+      "original": "彩 彩 [cai3] /(bright) color/variety/applause/applaud/lottery prize/",
+      "en-GB": "彩 彩 [cai3] /(bright) colour/variety/applause/applaud/lottery prize/"
+    },
+    {
+      "original": "彩印 彩印 [cai3 yin4] /color printing/abbr. for 彩色印刷[cai3 se4 yin4 shua1]/",
+      "en-GB": "彩印 彩印 [cai3 yin4] /colour printing/abbr. for 彩色印刷[cai3 se4 yin4 shua1]/"
+    },
+    {
+      "original": "彩卷 彩卷 [cai3 juan3] /color film/abbr. for 彩色膠卷|彩色胶卷/lottery ticket/",
+      "en-GB": "彩卷 彩卷 [cai3 juan3] /colour film/abbr. for 彩色膠卷|彩色胶卷/lottery ticket/"
+    },
+    {
+      "original": "彩帶 彩带 [cai3 dai4] /colored ribbon/streamer/CL:條|条[tiao2]/",
+      "en-GB": "彩帶 彩带 [cai3 dai4] /coloured ribbon/streamer/CL:條|条[tiao2]/"
+    },
+    {
+      "original": "彩擴 彩扩 [cai3 kuo4] /to enlarge color photos/color film processing/",
+      "en-GB": "彩擴 彩扩 [cai3 kuo4] /to enlarge colour photos/colour film processing/"
+    },
+    {
+      "original": "彩旗 彩旗 [cai3 qi2] /colored flag/",
+      "en-GB": "彩旗 彩旗 [cai3 qi2] /coloured flag/"
+    },
+    {
+      "original": "彩畫 彩画 [cai3 hua4] /color painting/",
+      "en-GB": "彩畫 彩画 [cai3 hua4] /colour painting/"
+    },
+    {
+      "original": "彩繪 彩绘 [cai3 hui4] /painted/colored painted-on designs/",
+      "en-GB": "彩繪 彩绘 [cai3 hui4] /painted/coloured painted-on designs/"
+    },
+    {
+      "original": "彩色 彩色 [cai3 se4] /color/multi-colored/CL:種|种[zhong3]/",
+      "en-GB": "彩色 彩色 [cai3 se4] /colour/multi-coloured/CL:種|种[zhong3]/"
+    },
+    {
+      "original": "彩衣 彩衣 [cai3 yi1] /colored clothes/motley attire/",
+      "en-GB": "彩衣 彩衣 [cai3 yi1] /coloured clothes/motley attire/"
+    },
+    {
+      "original": "彩超 彩超 [cai3 chao1] /color Doppler imaging (CDI) (medicine)/",
+      "en-GB": "彩超 彩超 [cai3 chao1] /colour Doppler imaging (CDI) (medicine)/"
+    },
+    {
+      "original": "彩電 彩电 [cai3 dian4] /color TV/",
+      "en-GB": "彩電 彩电 [cai3 dian4] /colour TV/"
+    },
+    {
+      "original": "彩電視 彩电视 [cai3 dian4 shi4] /color TV/",
+      "en-GB": "彩電視 彩电视 [cai3 dian4 shi4] /colour TV/"
+    },
+    {
+      "original": "戴有色眼鏡 戴有色眼镜 [dai4 you3 se4 yan3 jing4] /to wear colored glasses/to have a prejudiced viewpoint/",
+      "en-GB": "戴有色眼鏡 戴有色眼镜 [dai4 you3 se4 yan3 jing4] /to wear coloured glasses/to have a prejudiced viewpoint/"
+    },
+    {
+      "original": "掉色 掉色 [diao4 se4] /to lose color/to fade/also pr. [diao4 shai3]/",
+      "en-GB": "掉色 掉色 [diao4 se4] /to lose colour/to fade/also pr. [diao4 shai3]/"
+    },
+    {
+      "original": "文采 文采 [wen2 cai3] /literary talent/literary grace/rich and bright colors/",
+      "en-GB": "文采 文采 [wen2 cai3] /literary talent/literary grace/rich and bright colours/"
+    },
+    {
+      "original": "斑 斑 [ban1] /spot/colored patch/stripe/spotted/striped/variegated/",
+      "en-GB": "斑 斑 [ban1] /spot/coloured patch/stripe/spotted/striped/variegated/"
+    },
+    {
+      "original": "斑斕 斑斓 [ban1 lan2] /gorgeous/brightly colored/multi-colored/",
+      "en-GB": "斑斕 斑斓 [ban1 lan2] /gorgeous/brightly coloured/multi-coloured/"
+    },
+    {
+      "original": "斑讕 斑谰 [ban1 lan2] /brightly colored/gorgeous/multi-colored/",
+      "en-GB": "斑讕 斑谰 [ban1 lan2] /brightly coloured/gorgeous/multi-coloured/"
+    },
+    {
+      "original": "料器 料器 [liao4 qi4] /glassware/colored glass household vessel/",
+      "en-GB": "料器 料器 [liao4 qi4] /glassware/coloured glass household vessel/"
+    },
+    {
+      "original": "旗幟鮮明 旗帜鲜明 [qi2 zhi4 xian1 ming2] /to show one's colors/to have a clear-cut stand (idiom)/",
+      "en-GB": "旗幟鮮明 旗帜鲜明 [qi2 zhi4 xian1 ming2] /to show one's colours/to have a clear-cut stand (idiom)/"
+    },
+    {
+      "original": "明麗 明丽 [ming2 li4] /bright and beautiful/(of a landscape) gorgeous/(of a color) vibrant/",
+      "en-GB": "明麗 明丽 [ming2 li4] /bright and beautiful/(of a landscape) gorgeous/(of a colour) vibrant/"
+    },
+    {
+      "original": "春色 春色 [chun1 se4] /colors of spring/spring scenery/",
+      "en-GB": "春色 春色 [chun1 se4] /colours of spring/spring scenery/"
+    },
+    {
+      "original": "暖色 暖色 [nuan3 se4] /warm color (arch.)/esp. yellow, orange or red/",
+      "en-GB": "暖色 暖色 [nuan3 se4] /warm colour (arch.)/esp. yellow, orange or red/"
+    },
+    {
+      "original": "暖調 暖调 [nuan3 diao4] /warm tone/warm color/",
+      "en-GB": "暖調 暖调 [nuan3 diao4] /warm tone/warm colour/"
+    },
+    {
+      "original": "暗淡 暗淡 [an4 dan4] /dark/dim (light)/dull (color)/drab/(fig.) gloomy/bleak/",
+      "en-GB": "暗淡 暗淡 [an4 dan4] /dark/dim (light)/dull (colour)/drab/(fig.) gloomy/bleak/"
+    },
+    {
+      "original": "曘 曘 [ru2] /color of the sun/dark/",
+      "en-GB": "曘 曘 [ru2] /colour of the sun/dark/"
+    },
+    {
+      "original": "有聲有色 有声有色 [you3 sheng1 you3 se4] /having sound and color (idiom); vivid/dazzling/",
+      "en-GB": "有聲有色 有声有色 [you3 sheng1 you3 se4] /having sound and colour (idiom); vivid/dazzling/"
+    },
+    {
+      "original": "有色 有色 [you3 se4] /colored/non-white/non-ferrous (metals)/",
+      "en-GB": "有色 有色 [you3 se4] /coloured/non-white/non-ferrous (metals)/"
+    },
+    {
+      "original": "有色人種 有色人种 [you3 se4 ren2 zhong3] /colored races/",
+      "en-GB": "有色人種 有色人种 [you3 se4 ren2 zhong3] /coloured races/"
+    },
+    {
+      "original": "朠 朠 [ying1] /color of the moon/",
+      "en-GB": "朠 朠 [ying1] /colour of the moon/"
+    },
+    {
+      "original": "本來面目 本来面目 [ben3 lai2 mian4 mu4] /true colors/true features/",
+      "en-GB": "本來面目 本来面目 [ben3 lai2 mian4 mu4] /true colours/true features/"
+    },
+    {
+      "original": "本色 本色 [ben3 shai3] /natural color/",
+      "en-GB": "本色 本色 [ben3 shai3] /natural colour/"
+    },
+    {
+      "original": "染 染 [ran3] /to dye/to catch (a disease)/to acquire (bad habits etc)/to contaminate/to add color washes to a painting/",
+      "en-GB": "染 染 [ran3] /to dye/to catch (a disease)/to acquire (bad habits etc)/to contaminate/to add colour washes to a painting/"
+    },
+    {
+      "original": "柳綠花紅 柳绿花红 [liu3 lu:4 hua1 hong2] /green willow and red flowers/all the colors of spring/",
+      "en-GB": "柳綠花紅 柳绿花红 [liu3 lu:4 hua1 hong2] /green willow and red flowers/all the colours of spring/"
+    },
+    {
+      "original": "栗色 栗色 [li4 se4] /maroon (color)/",
+      "en-GB": "栗色 栗色 [li4 se4] /maroon (colour)/"
+    },
+    {
+      "original": "桃色 桃色 [tao2 se4] /pink/peach color/illicit love/sexual/",
+      "en-GB": "桃色 桃色 [tao2 se4] /pink/peach colour/illicit love/sexual/"
+    },
+    {
+      "original": "梅紅 梅红 [mei2 hong2] /pinkish-red (color)/",
+      "en-GB": "梅紅 梅红 [mei2 hong2] /pinkish-red (colour)/"
+    },
+    {
+      "original": "橄欖綠 橄榄绿 [gan3 lan3 lu:4] /olive-green (color)/",
+      "en-GB": "橄欖綠 橄榄绿 [gan3 lan3 lu:4] /olive-green (colour)/"
+    },
+    {
+      "original": "橘紅 橘红 [ju2 hong2] /orange (color)/orange peel (used in TCM)/",
+      "en-GB": "橘紅 橘红 [ju2 hong2] /orange (colour)/orange peel (used in TCM)/"
+    },
+    {
+      "original": "橘色 橘色 [ju2 se4] /orange (color)/",
+      "en-GB": "橘色 橘色 [ju2 se4] /orange (colour)/"
+    },
+    {
+      "original": "橘黃色 橘黄色 [ju2 huang2 se4] /tangerine yellow/saffron (color)/",
+      "en-GB": "橘黃色 橘黄色 [ju2 huang2 se4] /tangerine yellow/saffron (colour)/"
+    },
+    {
+      "original": "橙 橙 [cheng2] /orange tree/orange (color)/",
+      "en-GB": "橙 橙 [cheng2] /orange tree/orange (colour)/"
+    },
+    {
+      "original": "橙紅色 橙红色 [cheng2 hong2 se4] /red-orange color/dark orange/",
+      "en-GB": "橙紅色 橙红色 [cheng2 hong2 se4] /red-orange colour/dark orange/"
+    },
+    {
+      "original": "橙色 橙色 [cheng2 se4] /orange (color)/",
+      "en-GB": "橙色 橙色 [cheng2 se4] /orange (colour)/"
+    },
+    {
+      "original": "正色 正色 [zheng4 se4] /stern/grim/resolute/firm/unflinching/fundamental colors/",
+      "en-GB": "正色 正色 [zheng4 se4] /stern/grim/resolute/firm/unflinching/fundamental colours/"
+    },
+    {
+      "original": "比色分析 比色分析 [bi3 se4 fen1 xi1] /colorimetric analysis/",
+      "en-GB": "比色分析 比色分析 [bi3 se4 fen1 xi1] /colourimetric analysis/"
+    },
+    {
+      "original": "毛片 毛片 [mao2 pian4] /pornographic film/unedited film (old)/fur color/",
+      "en-GB": "毛片 毛片 [mao2 pian4] /pornographic film/unedited film (old)/fur colour/"
+    },
+    {
+      "original": "毛色 毛色 [mao2 se4] /(of an animal) appearance or color of coat/",
+      "en-GB": "毛色 毛色 [mao2 se4] /(of an animal) appearance or colour of coat/"
+    },
+    {
+      "original": "水天一色 水天一色 [shui3 tian1 yi1 se4] /water and sky merge in one color (idiom)/",
+      "en-GB": "水天一色 水天一色 [shui3 tian1 yi1 se4] /water and sky merge in one colour (idiom)/"
+    },
+    {
+      "original": "水彩 水彩 [shui3 cai3] /watercolor/",
+      "en-GB": "水彩 水彩 [shui3 cai3] /watercolour/"
+    },
+    {
+      "original": "水彩畫 水彩画 [shui3 cai3 hua4] /watercolor/aquarelle/",
+      "en-GB": "水彩畫 水彩画 [shui3 cai3 hua4] /watercolour/aquarelle/"
+    },
+    {
+      "original": "泛白 泛白 [fan4 bai2] /to be suffused with white/to be discolored/to blanch/",
+      "en-GB": "泛白 泛白 [fan4 bai2] /to be suffused with white/to be discoloured/to blanch/"
+    },
+    {
+      "original": "流光溢彩 流光溢彩 [liu2 guang1 yi4 cai3] /lit. flowing light and overflowing color/brilliant lights and vibrant colors (idiom)/",
+      "en-GB": "流光溢彩 流光溢彩 [liu2 guang1 yi4 cai3] /lit. flowing light and overflowing colour/brilliant lights and vibrant colours (idiom)/"
+    },
+    {
+      "original": "淡 淡 [dan4] /insipid/diluted/weak/mild/light in color/tasteless/indifferent/(variant of 氮[dan4]) nitrogen/",
+      "en-GB": "淡 淡 [dan4] /insipid/diluted/weak/mild/light in colour/tasteless/indifferent/(variant of 氮[dan4]) nitrogen/"
+    },
+    {
+      "original": "深 深 [shen1] /deep/depth/deeply/(of a color) dark/deep/rich/",
+      "en-GB": "深 深 [shen1] /deep/depth/deeply/(of a colour) dark/deep/rich/"
+    },
+    {
+      "original": "深棕 深棕 [shen1 zong1] /brown (color)/",
+      "en-GB": "深棕 深棕 [shen1 zong1] /brown (colour)/"
+    },
+    {
+      "original": "深色 深色 [shen1 se4] /dark/dark colored/",
+      "en-GB": "深色 深色 [shen1 se4] /dark/dark coloured/"
+    },
+    {
+      "original": "淺 浅 [qian3] /shallow/light (color)/",
+      "en-GB": "淺 浅 [qian3] /shallow/light (colour)/"
+    },
+    {
+      "original": "淺淡 浅淡 [qian3 dan4] /light (color)/pale/vague (feeling)/",
+      "en-GB": "淺淡 浅淡 [qian3 dan4] /light (colour)/pale/vague (feeling)/"
+    },
+    {
+      "original": "淺色 浅色 [qian3 se4] /light color/",
+      "en-GB": "淺色 浅色 [qian3 se4] /light colour/"
+    },
+    {
+      "original": "清湯寡水 清汤寡水 [qing1 tang1 gua3 shui3] /meager fare/(fig.) insipid/colorless/",
+      "en-GB": "清湯寡水 清汤寡水 [qing1 tang1 gua3 shui3] /meager fare/(fig.) insipid/colourless/"
+    },
+    {
+      "original": "渲 渲 [xuan4] /wash (color)/",
+      "en-GB": "渲 渲 [xuan4] /wash (colour)/"
+    },
+    {
+      "original": "渲染 渲染 [xuan4 ran3] /rendering (computing)/to add washes of ink or color to a drawing (Chinese painting)/to exaggerate/to embellish/",
+      "en-GB": "渲染 渲染 [xuan4 ran3] /rendering (computing)/to add washes of ink or colour to a drawing (Chinese painting)/to exaggerate/to embellish/"
+    },
+    {
+      "original": "潘通 潘通 [Pan1 tong1] /Pantone color system/",
+      "en-GB": "潘通 潘通 [Pan1 tong1] /Pantone colour system/"
+    },
+    {
+      "original": "濃厚 浓厚 [nong2 hou4] /dense/thick (fog, clouds etc)/to have a strong interest in/deep/fully saturated (color)/",
+      "en-GB": "濃厚 浓厚 [nong2 hou4] /dense/thick (fog, clouds etc)/to have a strong interest in/deep/fully saturated (colour)/"
+    },
+    {
+      "original": "濃墨重彩 浓墨重彩 [nong2 mo4 zhong4 cai3] /thick and heavy in colors/to describe sth in colorful language with attention to detail (idiom)/",
+      "en-GB": "濃墨重彩 浓墨重彩 [nong2 mo4 zhong4 cai3] /thick and heavy in colours/to describe sth in colourful language with attention to detail (idiom)/"
+    },
+    {
+      "original": "濃淡 浓淡 [nong2 dan4] /shade (of a color, i.e. light or dark)/",
+      "en-GB": "濃淡 浓淡 [nong2 dan4] /shade (of a colour, i.e. light or dark)/"
+    },
+    {
+      "original": "濃艷 浓艳 [nong2 yan4] /(of colors) garish/rich/",
+      "en-GB": "濃艷 浓艳 [nong2 yan4] /(of colours) garish/rich/"
+    },
+    {
+      "original": "濃重 浓重 [nong2 zhong4] /dense/thick/strong/rich (colors)/heavy (aroma)/deep (friendship)/profound (effect)/",
+      "en-GB": "濃重 浓重 [nong2 zhong4] /dense/thick/strong/rich (colours)/heavy (aroma)/deep (friendship)/profound (effect)/"
+    },
+    {
+      "original": "濾色鏡 滤色镜 [lu:4 se4 jing4] /color filter/",
+      "en-GB": "濾色鏡 滤色镜 [lu:4 se4 jing4] /colour filter/"
+    },
+    {
+      "original": "灰白 灰白 [hui1 bai2] /colored/ash-colored/",
+      "en-GB": "灰白 灰白 [hui1 bai2] /coloured/ash-coloured/"
+    },
+    {
+      "original": "無精打彩 无精打彩 [wu2 jing1 da3 cai3] /dull and colorless (idiom); lacking vitality/not lively/",
+      "en-GB": "無精打彩 无精打彩 [wu2 jing1 da3 cai3] /dull and colourless (idiom); lacking vitality/not lively/"
+    },
+    {
+      "original": "無色 无色 [wu2 se4] /colorless/",
+      "en-GB": "無色 无色 [wu2 se4] /colourless/"
+    },
+    {
+      "original": "無趣 无趣 [wu2 qu4] /dull/vapid/colorless/",
+      "en-GB": "無趣 无趣 [wu2 qu4] /dull/vapid/colourless/"
+    },
+    {
+      "original": "煍 煍 [jiao3] /to color by smoke/",
+      "en-GB": "煍 煍 [jiao3] /to colour by smoke/"
+    },
+    {
+      "original": "熉 𤈶 [yun2] /(yellow color)/",
+      "en-GB": "熉 𤈶 [yun2] /(yellow colour)/"
+    },
+    {
+      "original": "燦爛多彩 灿烂多彩 [can4 lan4 duo1 cai3] /multicolored splendor (of fireworks, bright lights etc)/",
+      "en-GB": "燦爛多彩 灿烂多彩 [can4 lan4 duo1 cai3] /multicoloured splendor (of fireworks, bright lights etc)/"
+    },
+    {
+      "original": "爛漫 烂漫 [lan4 man4] /brightly colored/unaffected (i.e. behaving naturally)/",
+      "en-GB": "爛漫 烂漫 [lan4 man4] /brightly coloured/unaffected (i.e. behaving naturally)/"
+    },
+    {
+      "original": "牙白 牙白 [ya2 bai2] /creamy white/ivory color/",
+      "en-GB": "牙白 牙白 [ya2 bai2] /creamy white/ivory colour/"
+    },
+    {
+      "original": "牛皮色 牛皮色 [niu2 pi2 se4] /buff (color)/",
+      "en-GB": "牛皮色 牛皮色 [niu2 pi2 se4] /buff (colour)/"
+    },
+    {
+      "original": "物色 物色 [wu4 se4] /to look for/to seek/to choose/color of object/color of fleece (of domestic animal)/to see/to notice/all kinds of things/odds and ends/",
+      "en-GB": "物色 物色 [wu4 se4] /to look for/to seek/to choose/colour of object/colour of fleece (of domestic animal)/to see/to notice/all kinds of things/odds and ends/"
+    },
+    {
+      "original": "牷 牷 [quan2] /one-color bullock/",
+      "en-GB": "牷 牷 [quan2] /one-colour bullock/"
+    },
+    {
+      "original": "猩紅色 猩红色 [xing1 hong2 se4] /scarlet (color)/",
+      "en-GB": "猩紅色 猩红色 [xing1 hong2 se4] /scarlet (colour)/"
+    },
+    {
+      "original": "玹 玹 [xuan2] /jadelike precious stone/jade-colored/",
+      "en-GB": "玹 玹 [xuan2] /jadelike precious stone/jade-coloured/"
+    },
+    {
+      "original": "琉璃 琉璃 [liu2 li5] /colored glass/ceramic glaze/",
+      "en-GB": "琉璃 琉璃 [liu2 li5] /coloured glass/ceramic glaze/"
+    },
+    {
+      "original": "瑞色 瑞色 [rui4 se4] /lovely color/",
+      "en-GB": "瑞色 瑞色 [rui4 se4] /lovely colour/"
+    },
+    {
+      "original": "璃 璃 [li2] /colored glaze/glass/",
+      "en-GB": "璃 璃 [li2] /coloured glaze/glass/"
+    },
+    {
+      "original": "異國情調 异国情调 [yi4 guo2 qing2 diao4] /exoticism/local color/exotic/",
+      "en-GB": "異國情調 异国情调 [yi4 guo2 qing2 diao4] /exoticism/local colour/exotic/"
+    },
+    {
+      "original": "疾風勁草 疾风劲草 [ji2 feng1 jing4 cao3] /the storm put strong grass to the test (idiom); fig. troubled times test a faithful minister/to show one's true colors after a stern test/",
+      "en-GB": "疾風勁草 疾风劲草 [ji2 feng1 jing4 cao3] /the storm put strong grass to the test (idiom); fig. troubled times test a faithful minister/to show one's true colours after a stern test/"
+    },
+    {
+      "original": "疾風知勁草 疾风知劲草 [ji2 feng1 zhi1 jing4 cao3] /the storm put strong grass to the test (idiom); fig. troubled times test a faithful minister/to show one's true colors after a stern test/also written 疾風勁草|疾风劲草/",
+      "en-GB": "疾風知勁草 疾风知劲草 [ji2 feng1 zhi1 jing4 cao3] /the storm put strong grass to the test (idiom); fig. troubled times test a faithful minister/to show one's true colours after a stern test/also written 疾風勁草|疾风劲草/"
+    },
+    {
+      "original": "疾風知勁草，烈火見真金 疾风知劲草，烈火见真金 [ji2 feng1 zhi1 jin4 cao3 , lie4 huo3 jian4 zhen1 jin1] /the storm put strong grass to the test, fire tests true gold (idiom); fig. troubled times test a faithful minister/to show one's true colors after a stern test/",
+      "en-GB": "疾風知勁草，烈火見真金 疾风知劲草，烈火见真金 [ji2 feng1 zhi1 jin4 cao3 , lie4 huo3 jian4 zhen1 jin1] /the storm put strong grass to the test, fire tests true gold (idiom); fig. troubled times test a faithful minister/to show one's true colours after a stern test/"
+    },
+    {
+      "original": "發白 发白 [fa1 bai2] /to turn pale/to lose color/to go white/",
+      "en-GB": "發白 发白 [fa1 bai2] /to turn pale/to lose colour/to go white/"
+    },
+    {
+      "original": "百卉千葩 百卉千葩 [bai3 hui4 qian1 pa1] /myriad plants and flowers (idiom); rich and colorful/",
+      "en-GB": "百卉千葩 百卉千葩 [bai3 hui4 qian1 pa1] /myriad plants and flowers (idiom); rich and colourful/"
+    },
+    {
+      "original": "目迷五色 目迷五色 [mu4 mi2 wu3 se4] /the eye is bewildered by five colors (idiom); a dazzling riot of colors/",
+      "en-GB": "目迷五色 目迷五色 [mu4 mi2 wu3 se4] /the eye is bewildered by five colours (idiom); a dazzling riot of colours/"
+    },
+    {
+      "original": "真彩色 真彩色 [zhen1 cai3 se4] /true color/",
+      "en-GB": "真彩色 真彩色 [zhen1 cai3 se4] /true colour/"
+    },
+    {
+      "original": "真面目 真面目 [zhen1 mian4 mu4] /true identity/true colors/",
+      "en-GB": "真面目 真面目 [zhen1 mian4 mu4] /true identity/true colours/"
+    },
+    {
+      "original": "碭 砀 [dang4] /stone with color veins/",
+      "en-GB": "碭 砀 [dang4] /stone with colour veins/"
+    },
+    {
+      "original": "秋色 秋色 [qiu1 se4] /colors of autumn/autumn scenery/",
+      "en-GB": "秋色 秋色 [qiu1 se4] /colours of autumn/autumn scenery/"
+    },
+    {
+      "original": "童趣 童趣 [tong2 qu4] /qualities that delight children (e.g. bold colors in a picture, anthropomorphized characters in a TV show, the physical challenge of playground equipment)/",
+      "en-GB": "童趣 童趣 [tong2 qu4] /qualities that delight children (e.g. bold colours in a picture, anthropomorphized characters in a TV show, the physical challenge of playground equipment)/"
+    },
+    {
+      "original": "竹青 竹青 [zhu2 qing1] /bamboo bark/bamboo green (color)/",
+      "en-GB": "竹青 竹青 [zhu2 qing1] /bamboo bark/bamboo green (colour)/"
+    },
+    {
+      "original": "粉艷 粉艳 [fen3 yan4] /(of a woman, a flower etc) delicate colors/",
+      "en-GB": "粉艷 粉艳 [fen3 yan4] /(of a woman, a flower etc) delicate colours/"
+    },
+    {
+      "original": "紅色 红色 [hong2 se4] /red (color)/revolutionary/",
+      "en-GB": "紅色 红色 [hong2 se4] /red (colour)/revolutionary/"
+    },
+    {
+      "original": "素淨 素净 [su4 jing5] /simple and neat/quiet (colors)/unobtrusive/(of food) light/not greasy or strongly flavored/",
+      "en-GB": "素淨 素净 [su4 jing5] /simple and neat/quiet (colours)/unobtrusive/(of food) light/not greasy or strongly flavored/"
+    },
+    {
+      "original": "素面 素面 [su4 mian4] /face (of a woman) without makeup/solid color (unpatterned)/",
+      "en-GB": "素面 素面 [su4 mian4] /face (of a woman) without makeup/solid colour (unpatterned)/"
+    },
+    {
+      "original": "紫紅色 紫红色 [zi3 hong2 se4] /red-purple/mauve/prune (color)/claret/",
+      "en-GB": "紫紅色 紫红色 [zi3 hong2 se4] /red-purple/mauve/prune (colour)/claret/"
+    },
+    {
+      "original": "紫羅蘭色 紫罗兰色 [zi3 luo2 lan2 se4] /violet (color)/",
+      "en-GB": "紫羅蘭色 紫罗兰色 [zi3 luo2 lan2 se4] /violet (colour)/"
+    },
+    {
+      "original": "紫色 紫色 [zi3 se4] /purple/violet (color)/",
+      "en-GB": "紫色 紫色 [zi3 se4] /purple/violet (colour)/"
+    },
+    {
+      "original": "絢麗多彩 绚丽多彩 [xuan4 li4 duo1 cai3] /bright and colorful/gorgeous/",
+      "en-GB": "絢麗多彩 绚丽多彩 [xuan4 li4 duo1 cai3] /bright and colourful/gorgeous/"
+    },
+    {
+      "original": "經絲彩色顯花 经丝彩色显花 [jing1 si1 cai3 se4 xian3 hua1] /warp brocade/woven fabric with single woof but colored warp/",
+      "en-GB": "經絲彩色顯花 经丝彩色显花 [jing1 si1 cai3 se4 xian3 hua1] /warp brocade/woven fabric with single woof but coloured warp/"
+    },
+    {
+      "original": "經錦 经锦 [jing1 jin3] /warp brocade/woven fabric with single colored woof but many-colored warp/",
+      "en-GB": "經錦 经锦 [jing1 jin3] /warp brocade/woven fabric with single coloured woof but many-coloured warp/"
+    },
+    {
+      "original": "綪 𬘬 [qian4] /dark red color (of silk product)/",
+      "en-GB": "綪 𬘬 [qian4] /dark red colour (of silk product)/"
+    },
+    {
+      "original": "綷 綷 [cui4] /five-color silk/see 綷縩[cui4 cai4]/",
+      "en-GB": "綷 綷 [cui4] /five-colour silk/see 綷縩[cui4 cai4]/"
+    },
+    {
+      "original": "緗 缃 [xiang1] /light yellow color/",
+      "en-GB": "緗 缃 [xiang1] /light yellow colour/"
+    },
+    {
+      "original": "緯錦 纬锦 [wei3 jin3] /woof brocade/woven fabric with many-colored woof/",
+      "en-GB": "緯錦 纬锦 [wei3 jin3] /woof brocade/woven fabric with many-coloured woof/"
+    },
+    {
+      "original": "緹 缇 [ti2] /orange-red silk/orange-red colored/",
+      "en-GB": "緹 缇 [ti2] /orange-red silk/orange-red coloured/"
+    },
+    {
+      "original": "縕 缊 [yun1] /generative force/orange color/",
+      "en-GB": "縕 缊 [yun1] /generative force/orange colour/"
+    },
+    {
+      "original": "織錦 织锦 [zhi1 jin3] /brocade/silk fabric with colored pattern/",
+      "en-GB": "織錦 织锦 [zhi1 jin3] /brocade/silk fabric with coloured pattern/"
+    },
+    {
+      "original": "繢 缋 [hui4] /multi-color/to draw/",
+      "en-GB": "繢 缋 [hui4] /multi-colour/to draw/"
+    },
+    {
+      "original": "繪聲繪色 绘声绘色 [hui4 sheng1 hui4 se4] /vivid and colorful (idiom); true to life/lively and realistic/",
+      "en-GB": "繪聲繪色 绘声绘色 [hui4 sheng1 hui4 se4] /vivid and colourful (idiom); true to life/lively and realistic/"
+    },
+    {
+      "original": "繻 𦈡 [xu1] /multicolored silk/piece of silk torn in two, used to verify the holder's identity by matching up the two halves/",
+      "en-GB": "繻 𦈡 [xu1] /multicoloured silk/piece of silk torn in two, used to verify the holder's identity by matching up the two halves/"
+    },
+    {
+      "original": "繽 缤 [bin1] /helter-skelter/mixed colors/in confusion/",
+      "en-GB": "繽 缤 [bin1] /helter-skelter/mixed colours/in confusion/"
+    },
+    {
+      "original": "老三色 老三色 [lao3 san1 se4] /the three plain colors used for clothing in the PRC in the 1960s: black, gray and blue/",
+      "en-GB": "老三色 老三色 [lao3 san1 se4] /the three plain colours used for clothing in the PRC in the 1960s: black, gray and blue/"
+    },
+    {
+      "original": "耐洗滌性 耐洗涤性 [nai4 xi3 di2 xing4] /washing or color fastness/launderability/",
+      "en-GB": "耐洗滌性 耐洗涤性 [nai4 xi3 di2 xing4] /washing or colour fastness/launderability/"
+    },
+    {
+      "original": "脫色 脱色 [tuo1 se4] /to lose color/to turn pale/to bleach/to fade/",
+      "en-GB": "脫色 脱色 [tuo1 se4] /to lose colour/to turn pale/to bleach/to fade/"
+    },
+    {
+      "original": "膚色 肤色 [fu1 se4] /skin color/",
+      "en-GB": "膚色 肤色 [fu1 se4] /skin colour/"
+    },
+    {
+      "original": "色 色 [se4] /color/CL:種|种[zhong3]/look/appearance/sex/",
+      "en-GB": "色 色 [se4] /colour/CL:種|种[zhong3]/look/appearance/sex/"
+    },
+    {
+      "original": "色 色 [shai3] /color/dice/",
+      "en-GB": "色 色 [shai3] /colour/dice/"
+    },
+    {
+      "original": "色光 色光 [se4 guang1] /colored light/",
+      "en-GB": "色光 色光 [se4 guang1] /coloured light/"
+    },
+    {
+      "original": "色域 色域 [se4 yu4] /color gamut/",
+      "en-GB": "色域 色域 [se4 yu4] /colour gamut/"
+    },
+    {
+      "original": "色度 色度 [se4 du4] /saturation (color theory)/",
+      "en-GB": "色度 色度 [se4 du4] /saturation (colour theory)/"
+    },
+    {
+      "original": "色弱 色弱 [se4 ruo4] /partial color blindness/color weakness/",
+      "en-GB": "色弱 色弱 [se4 ruo4] /partial colour blindness/colour weakness/"
+    },
+    {
+      "original": "色彩 色彩 [se4 cai3] /tint/coloring/coloration/(fig.) flavor/character/",
+      "en-GB": "色彩 色彩 [se4 cai3] /tint/colouring/colouration/(fig.) flavor/character/"
+    },
+    {
+      "original": "色斑 色斑 [se4 ban1] /stain/colored patch/freckle/lentigo/",
+      "en-GB": "色斑 色斑 [se4 ban1] /stain/coloured patch/freckle/lentigo/"
+    },
+    {
+      "original": "色澤 色泽 [se4 ze2] /color and luster/",
+      "en-GB": "色澤 色泽 [se4 ze2] /colour and luster/"
+    },
+    {
+      "original": "色盲 色盲 [se4 mang2] /color-blind/color blindness/",
+      "en-GB": "色盲 色盲 [se4 mang2] /colour-blind/colour blindness/"
+    },
+    {
+      "original": "色相 色相 [se4 xiang4] /coloration/hue/sex/sex appeal/",
+      "en-GB": "色相 色相 [se4 xiang4] /colouration/hue/sex/sex appeal/"
+    },
+    {
+      "original": "色酒 色酒 [shai3 jiu3] /colored wine (made from grapes or other fruit, as opposed to a rice wine etc)/",
+      "en-GB": "色酒 色酒 [shai3 jiu3] /coloured wine (made from grapes or other fruit, as opposed to a rice wine etc)/"
+    },
+    {
+      "original": "艷 艳 [yan4] /colorful/splendid/gaudy/amorous/romantic/to envy/",
+      "en-GB": "艷 艳 [yan4] /colourful/splendid/gaudy/amorous/romantic/to envy/"
+    },
+    {
+      "original": "芋頭色 芋头色 [yu4 tou5 se4] /lilac (color)/",
+      "en-GB": "芋頭色 芋头色 [yu4 tou5 se4] /lilac (colour)/"
+    },
+    {
+      "original": "花不稜登 花不棱登 [hua1 bu4 leng2 deng1] /gaudy/repulsively colored/",
+      "en-GB": "花不稜登 花不棱登 [hua1 bu4 leng2 deng1] /gaudy/repulsively coloured/"
+    },
+    {
+      "original": "花團錦簇 花团锦簇 [hua1 tuan2 jin3 cu4] /brightly colored decorations (idiom)/splendid/",
+      "en-GB": "花團錦簇 花团锦簇 [hua1 tuan2 jin3 cu4] /brightly coloured decorations (idiom)/splendid/"
+    },
+    {
+      "original": "花彩 花彩 [hua1 cai3] /to festoon/to decorate with a row of colored garlands/",
+      "en-GB": "花彩 花彩 [hua1 cai3] /to festoon/to decorate with a row of coloured garlands/"
+    },
+    {
+      "original": "花燈 花灯 [hua1 deng1] /colored lantern (used at Lantern Festival 元宵節|元宵节)/",
+      "en-GB": "花燈 花灯 [hua1 deng1] /coloured lantern (used at Lantern Festival 元宵節|元宵节)/"
+    },
+    {
+      "original": "花紅柳綠 花红柳绿 [hua1 hong2 liu3 lu:4] /red flowers and green willow/all the colors of spring/",
+      "en-GB": "花紅柳綠 花红柳绿 [hua1 hong2 liu3 lu:4] /red flowers and green willow/all the colours of spring/"
+    },
+    {
+      "original": "花色 花色 [hua1 se4] /variety/design and color/suit (cards)/",
+      "en-GB": "花色 花色 [hua1 se4] /variety/design and colour/suit (cards)/"
+    },
+    {
+      "original": "花花綠綠 花花绿绿 [hua1 hua1 lu:4 lu:4] /brightly colored/gaudy/",
+      "en-GB": "花花綠綠 花花绿绿 [hua1 hua1 lu:4 lu:4] /brightly coloured/gaudy/"
+    },
+    {
+      "original": "華彩 华彩 [hua2 cai3] /gorgeous/resplendent or rich color/",
+      "en-GB": "華彩 华彩 [hua2 cai3] /gorgeous/resplendent or rich colour/"
+    },
+    {
+      "original": "萬紫千紅 万紫千红 [wan4 zi3 qian1 hong2] /thousands of purples and reds (idiom); a blaze of color/fig. a profusion of flourishing trades/",
+      "en-GB": "萬紫千紅 万紫千红 [wan4 zi3 qian1 hong2] /thousands of purples and reds (idiom); a blaze of colour/fig. a profusion of flourishing trades/"
+    },
+    {
+      "original": "落色 落色 [lao4 shai3] /to fade/to discolor/also pr. [luo4 se4]/",
+      "en-GB": "落色 落色 [lao4 shai3] /to fade/to discolour/also pr. [luo4 se4]/"
+    },
+    {
+      "original": "著色 着色 [zhuo2 se4] /to paint/to apply color/",
+      "en-GB": "著色 着色 [zhuo2 se4] /to paint/to apply colour/"
+    },
+    {
+      "original": "葡萄紫 葡萄紫 [pu2 tao5 zi3] /grayish purple color/",
+      "en-GB": "葡萄紫 葡萄紫 [pu2 tao5 zi3] /grayish purple colour/"
+    },
+    {
+      "original": "薑黃色 姜黄色 [jiang1 huang2 se4] /ginger (color)/",
+      "en-GB": "薑黃色 姜黄色 [jiang1 huang2 se4] /ginger (colour)/"
+    },
+    {
+      "original": "藍色 蓝色 [lan2 se4] /blue (color)/",
+      "en-GB": "藍色 蓝色 [lan2 se4] /blue (colour)/"
+    },
+    {
+      "original": "蠟染 蜡染 [la4 ran3] /batik (color printing on cloth using wax)/",
+      "en-GB": "蠟染 蜡染 [la4 ran3] /batik (colour printing on cloth using wax)/"
+    },
+    {
+      "original": "血色 血色 [xue4 se4] /color (of one's skin, a sign of good health)/red of cheeks/",
+      "en-GB": "血色 血色 [xue4 se4] /colour (of one's skin, a sign of good health)/red of cheeks/"
+    },
+    {
+      "original": "血雨 血雨 [xue4 yu3] /rain of blood/heavy rain colored by loess sandstorm/",
+      "en-GB": "血雨 血雨 [xue4 yu3] /rain of blood/heavy rain coloured by loess sandstorm/"
+    },
+    {
+      "original": "補色 补色 [bu3 se4] /complementary color/",
+      "en-GB": "補色 补色 [bu3 se4] /complementary colour/"
+    },
+    {
+      "original": "褐 褐 [he4] /brown/gray or dark color/coarse hemp cloth/Taiwan pr. [he2]/",
+      "en-GB": "褐 褐 [he4] /brown/gray or dark colour/coarse hemp cloth/Taiwan pr. [he2]/"
+    },
+    {
+      "original": "褪 褪 [tui4] /to take off (clothes)/to shed feathers/(of color) to fade/to discolor/",
+      "en-GB": "褪 褪 [tui4] /to take off (clothes)/to shed feathers/(of colour) to fade/to discolour/"
+    },
+    {
+      "original": "褪光 褪光 [tui4 guang1] /matte (of a color etc)/",
+      "en-GB": "褪光 褪光 [tui4 guang1] /matte (of a colour etc)/"
+    },
+    {
+      "original": "褪色 褪色 [tui4 se4] /to fade (of colors)/also pr. [tui4 shai3]/",
+      "en-GB": "褪色 褪色 [tui4 se4] /to fade (of colours)/also pr. [tui4 shai3]/"
+    },
+    {
+      "original": "設色 设色 [she4 se4] /to paint/to color/",
+      "en-GB": "設色 设色 [she4 se4] /to paint/to colour/"
+    },
+    {
+      "original": "調色 调色 [tiao2 se4] /to blend colors/to mix colors/",
+      "en-GB": "調色 调色 [tiao2 se4] /to blend colours/to mix colours/"
+    },
+    {
+      "original": "調配 调配 [tiao2 pei4] /to blend (colors, herbs)/to mix/",
+      "en-GB": "調配 调配 [tiao2 pei4] /to blend (colours, herbs)/to mix/"
+    },
+    {
+      "original": "變色 变色 [bian4 se4] /to change color/to discolor/to change countenance/to become angry/",
+      "en-GB": "變色 变色 [bian4 se4] /to change colour/to discolour/to change countenance/to become angry/"
+    },
+    {
+      "original": "變色易容 变色易容 [bian4 se4 yi4 rong2] /to change color and alter one's expression (idiom); to go white with fear/out of one's wits/",
+      "en-GB": "變色易容 变色易容 [bian4 se4 yi4 rong2] /to change colour and alter one's expression (idiom); to go white with fear/out of one's wits/"
+    },
+    {
+      "original": "豐富多彩 丰富多彩 [feng1 fu4 duo1 cai3] /richly colorful/",
+      "en-GB": "豐富多彩 丰富多彩 [feng1 fu4 duo1 cai3] /richly colourful/"
+    },
+    {
+      "original": "走色 走色 [zou3 se4] /to lose color/to fade/",
+      "en-GB": "走色 走色 [zou3 se4] /to lose colour/to fade/"
+    },
+    {
+      "original": "酒色 酒色 [jiu3 se4] /wine and women/color of wine/drunken expression/",
+      "en-GB": "酒色 酒色 [jiu3 se4] /wine and women/colour of wine/drunken expression/"
+    },
+    {
+      "original": "采 采 [cai3] /color/complexion/looks/variant of 彩[cai3]/variant of 採|采[cai3]/",
+      "en-GB": "采 采 [cai3] /colour/complexion/looks/variant of 彩[cai3]/variant of 採|采[cai3]/"
+    },
+    {
+      "original": "金紅 金红 [jin1 hong2] /reddish-gold (color)/",
+      "en-GB": "金紅 金红 [jin1 hong2] /reddish-gold (colour)/"
+    },
+    {
+      "original": "金色 金色 [jin1 se4] /golden/gold (color)/",
+      "en-GB": "金色 金色 [jin1 se4] /golden/gold (colour)/"
+    },
+    {
+      "original": "金黃色 金黄色 [jin1 huang2 se4] /gold color/",
+      "en-GB": "金黃色 金黄色 [jin1 huang2 se4] /gold colour/"
+    },
+    {
+      "original": "銀 银 [yin2] /silver/silver-colored/relating to money or currency/",
+      "en-GB": "銀 银 [yin2] /silver/silver-coloured/relating to money or currency/"
+    },
+    {
+      "original": "銀紅 银红 [yin2 hong2] /pink/silvery red/pale rose color/",
+      "en-GB": "銀紅 银红 [yin2 hong2] /pink/silvery red/pale rose colour/"
+    },
+    {
+      "original": "銀色 银色 [yin2 se4] /silver (color)/",
+      "en-GB": "銀色 银色 [yin2 se4] /silver (colour)/"
+    },
+    {
+      "original": "鋯石 锆石 [gao4 shi2] /zircon (colored crystal of zirconium silicate ZrSiO4)/",
+      "en-GB": "鋯石 锆石 [gao4 shi2] /zircon (coloured crystal of zirconium silicate ZrSiO4)/"
+    },
+    {
+      "original": "錆 锖 [qiang1] /the color of a mineral/",
+      "en-GB": "錆 锖 [qiang1] /the colour of a mineral/"
+    },
+    {
+      "original": "降旗 降旗 [jiang4 qi2] /to lower a flag/to strike the colors/",
+      "en-GB": "降旗 降旗 [jiang4 qi2] /to lower a flag/to strike the colours/"
+    },
+    {
+      "original": "隱色 隐色 [yin3 se4] /protective coloration (esp. of insects)/camouflage/",
+      "en-GB": "隱色 隐色 [yin3 se4] /protective colouration (esp. of insects)/camouflage/"
+    },
+    {
+      "original": "雌雄異色 雌雄异色 [ci2 xiong2 yi4 se4] /sexual coloration/",
+      "en-GB": "雌雄異色 雌雄异色 [ci2 xiong2 yi4 se4] /sexual colouration/"
+    },
+    {
+      "original": "雜色 杂色 [za2 se4] /varicolored/motley/",
+      "en-GB": "雜色 杂色 [za2 se4] /varicoloured/motley/"
+    },
+    {
+      "original": "雪青 雪青 [xue3 qing1] /lilac (color)/",
+      "en-GB": "雪青 雪青 [xue3 qing1] /lilac (colour)/"
+    },
+    {
+      "original": "雯 雯 [wen2] /multicolored clouds/",
+      "en-GB": "雯 雯 [wen2] /multicoloured clouds/"
+    },
+    {
+      "original": "霓裳 霓裳 [ni2 chang2] /nichang, rainbow colored clothes worn by the Eight Immortals 八仙[Ba1 xian1]/",
+      "en-GB": "霓裳 霓裳 [ni2 chang2] /nichang, rainbow coloured clothes worn by the Eight Immortals 八仙[Ba1 xian1]/"
+    },
+    {
+      "original": "霞光 霞光 [xia2 guang1] /multicolored sunlight of sunrise or sunset/",
+      "en-GB": "霞光 霞光 [xia2 guang1] /multicoloured sunlight of sunrise or sunset/"
+    },
+    {
+      "original": "露相 露相 [lou4 xiang4] /to show one's true colors/",
+      "en-GB": "露相 露相 [lou4 xiang4] /to show one's true colours/"
+    },
+    {
+      "original": "青出於藍而勝於藍 青出于蓝而胜于蓝 [qing1 chu1 yu2 lan2 er2 sheng4 yu2 lan2] /lit. the color blue is made out of indigo but is more vivid than indigo (idiom)/fig. the student surpasses the master/",
+      "en-GB": "青出於藍而勝於藍 青出于蓝而胜于蓝 [qing1 chu1 yu2 lan2 er2 sheng4 yu2 lan2] /lit. the colour blue is made out of indigo but is more vivid than indigo (idiom)/fig. the student surpasses the master/"
+    },
+    {
+      "original": "青檸色 青柠色 [qing1 ning2 se4] /lime (color)/greenish yellow/",
+      "en-GB": "青檸色 青柠色 [qing1 ning2 se4] /lime (colour)/greenish yellow/"
+    },
+    {
+      "original": "靛色 靛色 [dian4 se4] /indigo (color)/",
+      "en-GB": "靛色 靛色 [dian4 se4] /indigo (colour)/"
+    },
+    {
+      "original": "音色 音色 [yin1 se4] /tone/timbre/sound color/",
+      "en-GB": "音色 音色 [yin1 se4] /tone/timbre/sound colour/"
+    },
+    {
+      "original": "顏 颜 [yan2] /color/face/countenance/",
+      "en-GB": "顏 颜 [yan2] /colour/face/countenance/"
+    },
+    {
+      "original": "顏色 颜色 [yan2 se4] /color/countenance/appearance/facial expression/pigment/dyestuff/",
+      "en-GB": "顏色 颜色 [yan2 se4] /colour/countenance/appearance/facial expression/pigment/dyestuff/"
+    },
+    {
+      "original": "駝色 驼色 [tuo2 se4] /light tan (color)/camel-hair color/",
+      "en-GB": "駝色 驼色 [tuo2 se4] /light tan (colour)/camel-hair colour/"
+    },
+    {
+      "original": "騂 骍 [xing1] /horse (or cattle) of reddish color/bay horse/",
+      "en-GB": "騂 骍 [xing1] /horse (or cattle) of reddish colour/bay horse/"
+    },
+    {
+      "original": "魚肚白 鱼肚白 [yu2 du4 bai2] /white (paint from dried fish guts)/marble white color of the dawn sky/",
+      "en-GB": "魚肚白 鱼肚白 [yu2 du4 bai2] /white (paint from dried fish guts)/marble white colour of the dawn sky/"
+    },
+    {
+      "original": "鮮 鲜 [xian1] /fresh/bright (in color)/delicious/tasty/delicacy/aquatic foods/",
+      "en-GB": "鮮 鲜 [xian1] /fresh/bright (in colour)/delicious/tasty/delicacy/aquatic foods/"
+    },
+    {
+      "original": "鮮亮 鲜亮 [xian1 liang5] /bright (color)/vivid/",
+      "en-GB": "鮮亮 鲜亮 [xian1 liang5] /bright (colour)/vivid/"
+    },
+    {
+      "original": "鮮艷 鲜艳 [xian1 yan4] /bright-colored/gaily-colored/",
+      "en-GB": "鮮艷 鲜艳 [xian1 yan4] /bright-coloured/gaily-coloured/"
+    },
+    {
+      "original": "黃色 黄色 [huang2 se4] /yellow (color)/pornographic/",
+      "en-GB": "黃色 黄色 [huang2 se4] /yellow (colour)/pornographic/"
+    },
+    {
+      "original": "黃褐色 黄褐色 [huang2 he4 se4] /tan (color)/tawny/",
+      "en-GB": "黃褐色 黄褐色 [huang2 he4 se4] /tan (colour)/tawny/"
+    },
+    {
+      "original": "黃赤色 黄赤色 [huang2 chi4 se4] /golden colored/yellow red/",
+      "en-GB": "黃赤色 黄赤色 [huang2 chi4 se4] /golden coloured/yellow red/"
+    },
+    {
+      "original": "黈 黈 [tou3] /a yellow color/",
+      "en-GB": "黈 黈 [tou3] /a yellow colour/"
+    },
+    {
+      "original": "黑炭 黑炭 [hei1 tan4] /coal/charcoal/(of skin) darkly pigmented/charcoal (color)/bituminous coal (mining)/",
+      "en-GB": "黑炭 黑炭 [hei1 tan4] /coal/charcoal/(of skin) darkly pigmented/charcoal (colour)/bituminous coal (mining)/"
+    },
+    {
+      "original": "黧 黧 [li2] /dark/sallow color/",
+      "en-GB": "黧 黧 [li2] /dark/sallow colour/"
+    },
+    {
+      "original": "黯 黯 [an4] /deep black/dark/dull (color)/",
+      "en-GB": "黯 黯 [an4] /deep black/dark/dull (colour)/"
     }
   ]
 }
