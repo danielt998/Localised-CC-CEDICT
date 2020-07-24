@@ -11,7 +11,9 @@ for line in source_cedict:
     replaced = False
     for replacement_set in line_replacements['data']:
         if(line == replacement_set['original']):
+            # TODO:optimise by removing item from the list as soon as it is matched
             output_cedict.write(replacement_set['en-GB'] + '\n')
             replaced = True
+            break
     if not replaced:
         output_cedict.write(line + '\n')
