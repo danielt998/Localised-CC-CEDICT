@@ -12,6 +12,7 @@ for line in source_cedict:
     for replacement_set in line_replacements['data']:
         if(line == replacement_set['original']):
             # TODO:optimise by removing item from the list as soon as it is matched
+            # another optimisation: order the items in replacements.json?
             output_cedict.write(replacement_set['en-GB'] + '\n')
             replaced = True
             break
